@@ -1,0 +1,5 @@
+# All the related .class files are ignored
+readerFile.class
+readingFile.class
+writerFile.class
+writingFile.class
